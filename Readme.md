@@ -6,7 +6,7 @@ Pin code: 2222
 
 ### Screenshot - 
 
-![ATM program](https://github.com/anirudddh/Bank-Management-System-Project-in-Python/blob/1bd13049b2ea1953f535aa78817df68748a08bdf/Screenshot.jpg)
+![ATM program](https://github.com/anirudddh/ATM-Simultaneous-Python-Project/blob/668e522405c42324e2918395ec4ae3a8f533898a/Screenshot.jpg)
 
 ### Video Demo - https://youtu.be/ 
 
